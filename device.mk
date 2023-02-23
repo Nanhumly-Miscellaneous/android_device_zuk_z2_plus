@@ -39,6 +39,3 @@ DEVICE_PACKAGE_OVERLAYS += \
 # Ramdisk
 PRODUCT_PACKAGES += \
     init.zuk.rc
-
-# Vendor properties
--include $(LOCAL_PATH)/vendor_prop.mk
